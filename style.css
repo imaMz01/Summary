@@ -133,3 +133,6 @@
     margin: 10px 10px 10px 10px;
     border: none;
 }
+.container .content .description .descrip button:hover{
+    background-color: hsl(252, 100%, 67%);
+}
